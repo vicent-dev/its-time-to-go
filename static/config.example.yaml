@@ -1,0 +1,9 @@
+server:
+  host: 127.0.0.1
+  port: 8080
+db:
+  user: root
+  pwd: root
+  port: 3306
+  host: mariadb
+  name: its_time_to_go
